@@ -87,7 +87,7 @@ branching_chain = RunnableBranch(
 st.set_page_config(page_title="AI Support Chatbot", layout="wide")
 
 st.title("🔧 AI Support Chatbot")
-st.subheader("Describe your issue, and our AI will classify it.")
+st.subheader("Describe your issue, and team will solve your issue.")
 
 # ✅ Sidebar for test questions
 st.sidebar.header("💡 Test the Chatbot")
