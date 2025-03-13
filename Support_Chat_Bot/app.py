@@ -144,5 +144,6 @@ st.markdown("""
 3. Enter your **Name** and **Phone Number**, then click **Confirm Ticket Creation**.
 4. AI will handle your request and provide a response.
 
-🚀 Created by Kiran Gajjana 
+🚀 Created by Kiran Gajjana
+             
 """)
